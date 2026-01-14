@@ -2,7 +2,7 @@
 #### Software Developer 
 ![Software Developer ](https://media.licdn.com/dms/image/D4D16AQGa9WcA_OF_DQ/profile-displaybackgroundimage-shrink_350_1400/0/1711825101569?e=1720051200&v=beta&t=Snjv47cvjveXeTnmgC3zbkGJmaLmThxNJZODbaSfiIU)
 
-👋 Software Engineer (Android)  | Critical Thinker & Problem Solver | 4+ Years Experience 🚀
+👋 Software Engineer (Android)  | Critical Thinker & Problem Solver | 6.5+ Years Experience 🚀
 
 Passionate about crafting innovative solutions and pushing the boundaries of mobile technology, I am a seasoned Android developer with a track record of delivering high-quality software products. With expertise in Kotlin, Java, coroutines, and a strong understanding of modern development practices, I thrive in dynamic environments where complex challenges await.
 
